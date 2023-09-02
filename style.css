@@ -1,0 +1,14 @@
+body{
+    background-color:lightblue;
+    color:green;
+    font-size:20px;
+}
+
+p {
+    background-color:#6495ED;
+    border-radius:2px;
+    text-align:center;
+    padding:20px;
+    color:#fff;
+    
+}
