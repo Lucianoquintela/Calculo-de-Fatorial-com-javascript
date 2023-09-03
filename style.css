@@ -1,6 +1,6 @@
 body{
     background-color:lightblue;
-    color:green;
+    color:Gn;
     font-size:20px;
 }
 
@@ -12,3 +12,20 @@ p {
     color:#fff;
     
 }
+
+button{
+   background-color:SlateBlue ;
+   cursor:pointer;
+   transform: scale(1.05);
+   transition: 0.2s ease-in-out;
+   color:white;
+   border:solid black;
+  
+   
+}
+
+button:hover{
+    background-color:SteelBlue ;
+    border:solid white ;
+    color:Lime;
+}     
